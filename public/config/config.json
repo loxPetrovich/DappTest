@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xFA4Ad7e9D89f503bE53aDDd6b9ebcEe8CbC3E9Da",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xfa4ad7e9d89f503be53addd6b9ebcee8cbc3e9da",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "MY_FIRST_NFT",
+  "SYMBOL": "MFNFT",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/my-first-nft-btoadv3vbq",
+  "SHOW_BACKGROUND": true
+}
